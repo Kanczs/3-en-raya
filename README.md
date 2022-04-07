@@ -1,7 +1,7 @@
 # 3-en-raya
 
 Trabajo realizado por: Kelvin Andreé Caya Zeballos
-Grupo 8
+
 CCOMP1-3
 
 
